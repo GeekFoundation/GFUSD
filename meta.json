@@ -2,5 +2,5 @@
   "name": "Geek Foundation USD",
   "symbol": "GFUSD",
   "description": "A stable coin issued by Geek Foundation, baked by USD, USDT and USDC.",
-  "image": "https://raw.githubusercontent.com/GeekFoundation/GFUSD/refs/heads/master/icon.png"
+  "image": "https://raw.githubusercontent.com/GeekFoundation/GFUSD/refs/heads/main/icon.png"
 }
